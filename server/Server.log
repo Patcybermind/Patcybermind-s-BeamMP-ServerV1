@@ -1,3 +1,8 @@
-[12/03/23 21:31:19] [INFO] BeamMP Server v3.1.1
-[12/03/23 21:31:19] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
-[12/03/23 21:31:19] [ERROR] bind() failed: Address already in use
+[12/03/23 21:46:42] [INFO] BeamMP Server v3.1.1
+[12/03/23 21:46:42] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
+[12/03/23 21:46:42] [INFO] Vehicle data network online on port 30814 with a Max of 8 Clients
+[12/03/23 21:46:42] [INFO] Vehicle event network online
+[12/03/23 21:46:42] [INFO] Server up-to-date!
+[12/03/23 21:46:42] [INFO] PluginMonitor started
+[12/03/23 21:46:47] [INFO] Authenticated! Success, Your server listing has been updated.
+[12/03/23 21:46:47] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY

@@ -1,3 +1,3 @@
-[12/03/23 21:30:58] [INFO] BeamMP Server v3.1.1
-[12/03/23 21:30:58] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
-[12/03/23 21:30:58] [ERROR] bind() failed: Address already in use
+[12/03/23 21:31:19] [INFO] BeamMP Server v3.1.1
+[12/03/23 21:31:19] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
+[12/03/23 21:31:19] [ERROR] bind() failed: Address already in use

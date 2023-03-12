@@ -35,3 +35,4 @@ LogChat = true
 MaxCars = 3
 # AuthKey has to be filled out in order to run the server
 AuthKey = "ed1f2941-77b6-4438-ae0f-eaa196600870"
+

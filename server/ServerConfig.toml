@@ -22,14 +22,14 @@ SendErrors = true
 ImScaredOfUpdates = false
 
 [General]
-Description = "Anyone can join. I am hosting this using github codespaces."
+Description = "Anyone can join!"
 ResourceFolder = "Resources"
 Map = "/levels/gridmap_v2/info.json"
 MaxPlayers = 8
 Port = 30814
 Private = false
 Debug = false
-Name = "Patcybermind's BeamMP Server! Anyone Can Join!"
+Name = "Patcybermind's BeamMP server! Anyone can join!"
 # Whether to log chat messages in the console / log
 LogChat = true
 MaxCars = 3

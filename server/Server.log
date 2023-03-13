@@ -1,23 +1,20 @@
-[12/03/23 22:15:02] [INFO] BeamMP Server v3.1.1
-[12/03/23 22:15:02] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
-[12/03/23 22:15:02] [INFO] Vehicle event network online
-[12/03/23 22:15:02] [INFO] Vehicle data network online on port 30814 with a Max of 8 Clients
-[12/03/23 22:15:02] [INFO] Server up-to-date!
-[12/03/23 22:15:02] [INFO] PluginMonitor started
-[12/03/23 22:15:07] [INFO] Authenticated! Success, Your server listing has been updated.
-[12/03/23 22:15:07] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY
-> exit
-[12/03/23 22:31:04] [INFO] gracefully shutting down
-[12/03/23 22:31:04] [INFO] please wait while all subsystems are shutting down...
-[12/03/23 22:31:04] [INFO] Subsystem 1/9 shutting down
-[12/03/23 22:31:04] [INFO] Subsystem 2/9 shutting down
-[12/03/23 22:31:04] [INFO] Subsystem 3/9 shutting down
-[12/03/23 22:31:04] [INFO] Subsystem 4/9 shutting down
-[12/03/23 22:31:04] [INFO] Subsystem 5/9 shutting down
-[12/03/23 22:31:04] [INFO] Subsystem 6/9 shutting down
-[12/03/23 22:31:05] [INFO] Subsystem 7/9 shutting down
-[12/03/23 22:31:05] [INFO] Subsystem 8/9 shutting down
-[12/03/23 22:31:05] [INFO] Subsystem 9/9 shutting down
-[12/03/23 22:31:05] [INFO] If this takes too long, you can press Ctrl+C repeatedly to force a shutdown.
-[12/03/23 22:31:05] [INFO] Shutdown.
-[12/03/23 22:31:05] [INFO] Scoped timer: "" took 963148ms 
+[13/03/23 12:22:25] [INFO] BeamMP Server v3.1.1
+[13/03/23 12:22:25] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
+[13/03/23 12:22:25] [INFO] Vehicle event network online
+[13/03/23 12:22:25] [INFO] Vehicle data network online on port 30814 with a Max of 8 Clients
+[13/03/23 12:22:25] [INFO] Server up-to-date!
+[13/03/23 12:22:25] [INFO] PluginMonitor started
+[13/03/23 12:22:30] [INFO] Resumed authenticated session! Success, Welcome to the BeamMP Server List.
+[13/03/23 12:22:30] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''
+[13/03/23 13:11:56] [ERROR] Invalid code got in Identify: ''

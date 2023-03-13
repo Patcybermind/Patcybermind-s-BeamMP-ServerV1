@@ -1,21 +1,23 @@
-[12/03/23 22:08:07] [INFO] BeamMP Server v3.1.1
-[12/03/23 22:08:07] [INFO] No config file found! Generating one...
-[12/03/23 22:08:07] [ERROR] No AuthKey specified in the "ServerConfig.toml" file. Please get an AuthKey, enter it into the config file, and restart this server.
-[12/03/23 22:08:07] [INFO] Closing in 10 seconds
-> help
-BeamMP-Server Console: 
-    Commands:
-        help                    displays this help
-        exit                    shuts down the server
-        kick <name> [reason]    kicks specified player with an optional reason
-        list                    lists all players and info about them
-        say <message>           sends the message to all players in chat
-        lua [state id]          switches to lua, optionally into a specific state id's lua
-        settings [command]      sets or gets settings for the server, run `settings help` for more info
-        status                  how the server is doing and what it's up to
-        clear                   clears the console window
+[13/03/23 12:18:58] [INFO] BeamMP Server v3.1.1
+[13/03/23 12:18:58] [INFO] Sentry started! Reporting errors automatically. This sends data to the developers in case of errors and crashes. You can learn more, turn this message off or opt-out of this in the ServerConfig.toml.
+[13/03/23 12:18:58] [INFO] Vehicle event network online
+[13/03/23 12:18:58] [INFO] Vehicle data network online on port 30814 with a Max of 8 Clients
+[13/03/23 12:18:58] [INFO] Server up-to-date!
+[13/03/23 12:18:58] [INFO] PluginMonitor started
+[13/03/23 12:19:03] [INFO] Authenticated! Success, Your server listing has been updated.
+[13/03/23 12:19:03] [INFO] ALL SYSTEMS STARTED SUCCESSFULLY, EVERYTHING IS OKAY
 > exit
-[12/03/23 22:09:37] [INFO] gracefully shutting down
-[12/03/23 22:09:37] [INFO] please wait while all subsystems are shutting down...
-[12/03/23 22:09:37] [INFO] Subsystem 1/3 shutting down
-[12/03/23 22:09:38] [INFO] Scoped timer: "" took 90530ms 
+[13/03/23 12:22:18] [INFO] gracefully shutting down
+[13/03/23 12:22:18] [INFO] please wait while all subsystems are shutting down...
+[13/03/23 12:22:18] [INFO] Subsystem 1/9 shutting down
+[13/03/23 12:22:18] [INFO] Subsystem 2/9 shutting down
+[13/03/23 12:22:18] [INFO] Subsystem 3/9 shutting down
+[13/03/23 12:22:18] [INFO] Subsystem 4/9 shutting down
+[13/03/23 12:22:18] [INFO] Subsystem 5/9 shutting down
+[13/03/23 12:22:18] [INFO] Subsystem 6/9 shutting down
+[13/03/23 12:22:19] [INFO] Subsystem 7/9 shutting down
+[13/03/23 12:22:19] [INFO] Subsystem 8/9 shutting down
+[13/03/23 12:22:19] [INFO] Subsystem 9/9 shutting down
+[13/03/23 12:22:19] [INFO] If this takes too long, you can press Ctrl+C repeatedly to force a shutdown.
+[13/03/23 12:22:19] [INFO] Shutdown.
+[13/03/23 12:22:19] [INFO] Scoped timer: "" took 201048ms 
